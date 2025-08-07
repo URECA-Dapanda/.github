@@ -348,3 +348,9 @@
     </td>
   </tr>
 </table>
+
+## 📑 산출물
+
+[기획안](https://docs.google.com/document/d/1X2EpAa0-0yh4aBk3mHVlvxrviKB4m02E/edit)
+[ERD Cloud](https://www.erdcloud.com/d/SSBGc2f5GtqPpTuob)
+
