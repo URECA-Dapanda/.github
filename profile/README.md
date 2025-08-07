@@ -1,4 +1,4 @@
-# 🐼 모두가 참여할 수 있는 무선데이터 공유 플랫폼, DAPANDA
+# 🐼 모두가 참여할 수 있는 무선 데이터 공유 플랫폼, DAPANDA
 
 <img width="1920" height="1080" alt="readme-main" src="https://github.com/user-attachments/assets/98532d57-ee92-4714-9653-6bb4647decb5" />
 
